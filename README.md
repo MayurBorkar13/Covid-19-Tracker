@@ -1,2 +1,19 @@
-# Covid-19-Tracker
-Corona Tracker is a mobile application developed using Flutter, designed to provide real-time updates on COVID-19 cases worldwide. The app fetches data via API calls and presents it in an easy-to-understand format with features like:
+# covid_19_tracker
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+"# Corona_Tracker" 
+"# Corona_Tracker" 
+"# Corona_Tracker" 
